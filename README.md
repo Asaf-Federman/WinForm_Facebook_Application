@@ -1,2 +1,4 @@
 # WinForm_Facebook_Application
- Creating a Facebook Application using facebook's API. Using numerous Design Patterns and describing the system using UML diagrams
+  Facebook Application using facebook's API.
+  Used numerous design patterns
+  Used UML Diagrams to describe the system's architecture
