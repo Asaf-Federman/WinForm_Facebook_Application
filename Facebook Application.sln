@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{73FDA1B0-EA48-4FA9-8FE7-EC0BBF62AD9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{CB98C7A5-D062-4168-B434-4C9949ECE1C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{649EEBCE-6AED-41BE-A06F-66787733E9C8}"
+	ProjectSection(SolutionItems) = preProject
+		UML Part 3.docx = UML Part 3.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73FDA1B0-EA48-4FA9-8FE7-EC0BBF62AD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73FDA1B0-EA48-4FA9-8FE7-EC0BBF62AD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73FDA1B0-EA48-4FA9-8FE7-EC0BBF62AD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73FDA1B0-EA48-4FA9-8FE7-EC0BBF62AD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB98C7A5-D062-4168-B434-4C9949ECE1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB98C7A5-D062-4168-B434-4C9949ECE1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB98C7A5-D062-4168-B434-4C9949ECE1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB98C7A5-D062-4168-B434-4C9949ECE1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C485744B-EC88-40C0-8203-9A042FF3B7C2}
+	EndGlobalSection
+EndGlobal
