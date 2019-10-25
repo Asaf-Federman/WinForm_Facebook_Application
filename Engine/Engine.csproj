@@ -36,10 +36,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Facebook">
-      <HintPath>..\..\..\..\..\..\..\קבצי הפעלה\DLLs\Facebook.dll</HintPath>
+      <HintPath>C:\Users\ASAF\Documents\Visual Studio 2015\Projects\C19 Ex02 Asaf 311331847 Yogev 312412067\dll\Facebook.dll</HintPath>
     </Reference>
     <Reference Include="FbGraphApiWrapper">
-      <HintPath>..\..\..\..\..\..\..\קבצי הפעלה\DLLs\FbGraphApiWrapper.dll</HintPath>
+      <HintPath>C:\Users\ASAF\Documents\Visual Studio 2015\Projects\C19 Ex02 Asaf 311331847 Yogev 312412067\dll\FbGraphApiWrapper.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
